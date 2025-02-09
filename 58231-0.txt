@@ -1,34 +1,7 @@
-The Project Gutenberg EBook of Battles & Bivouacs, by Jacques Roujon
-
-This eBook is for the use of anyone anywhere in the United States and most
-other parts of the world at no cost and with almost no restrictions
-whatsoever.  You may copy it, give it away or re-use it under the terms of
-the Project Gutenberg License included with this eBook or online at
-www.gutenberg.org.  If you are not located in the United States, you'll have
-to check the laws of the country where you are located before using this ebook.
-
-Title: Battles & Bivouacs
-       A French soldier's note-book
-
-Author: Jacques Roujon
-
-Translator: Fred Rothwell
-
-Release Date: November 4, 2018 [EBook #58231]
-
-Language: English
-
-Character set encoding: ISO-8859-1
-
-*** START OF THIS PROJECT GUTENBERG EBOOK BATTLES & BIVOUACS ***
+*** START OF THE PROJECT GUTENBERG EBOOK 58231 ***
 
 
 
-
-Produced by Brian Coe, Graeme Mackreth and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive)
 
 
 
@@ -102,14 +75,14 @@ LONDON: GEORGE ALLEN & UNWIN LTD.
  (_All rights reserved_)
 
 
-_I' leur semble qu'i'faut parler de la Ramée, grenadier de Champagne,
+_I' leur semble qu'i'faut parler de la RamÃ©e, grenadier de Champagne,
 comme d'un prince dont auquel on ne risque rien de vanter toujours. I'
-vous lui mettent l'épée à la main qu'ça doit lui fatiguer le poignet
-furieusement et qu'on dirait qu'la Ramée n'a jamais fait autre chose
+vous lui mettent l'Ã©pÃ©e Ã  la main qu'Ã§a doit lui fatiguer le poignet
+furieusement et qu'on dirait qu'la RamÃ©e n'a jamais fait autre chose
 d'aussi meilleur ... I'n'faut pas se battre tous les jours: i' n'y
 aurait plus de plaisir._
 
-(LE CONTE DE LA RAMÉE.)
+(LE CONTE DE LA RAMÃ‰E.)
 
 
 
@@ -344,7 +317,7 @@ abound.
 At nine o'clock, Verrier, Reymond and myself make our bed in the hay.
 All around may be heard the usual jokes and pleasantries of the mess,
 just as in times of peace. One may distinguish the thick, rolling
-voices of those from Burgundy and the Franche-Comté, the accent of
+voices of those from Burgundy and the Franche-ComtÃ©, the accent of
 the Lyons silk-weavers, and the peculiar intonations of men from
 the various provinces. Bursts of laughter, then snoring followed by
 silence. Down below, in a stable, the plaintive lowing of a calf.
@@ -387,8 +360,8 @@ faint shade of the poplars.
 This life is an extremely healthy one; it constitutes a regular
 camping-out cure.
 
-We now take our meals at the Hôtel du Commerce, kept by M. Girardot,
-nicknamed _Père Achille_. It is a large building on the main road
+We now take our meals at the HÃ´tel du Commerce, kept by M. Girardot,
+nicknamed _PÃ¨re Achille_. It is a large building on the main road
 between Paris and Belfort. Out in the yard and in both dining-rooms
 every table is engaged. Just as in the canteen, there is shouting and
 smoking, whilst the men call for drinks by hammering vigorously with
@@ -405,7 +378,7 @@ the ceiling.
 
 _Saturday, 15th August_.
 
-_Père Achille_ places his loft at our disposal, at the farther end of
+_PÃ¨re Achille_ places his loft at our disposal, at the farther end of
 the yard, above the stable. Climbing a ladder, you find bundles of hay
 to right and left. In the centre is a large open space containing a
 folding-bed occupied by Vitrier, of the 28th company, a neighbour and
@@ -462,7 +435,7 @@ is crossed, profound silence. Silence in broad daylight! Well, well! It
 rather puts one out!
 
 There are flags around the walls. All the seats are occupied by
-soldiers and officers, _pêle-mêle_. A few peasant women are present,
+soldiers and officers, _pÃªle-mÃªle_. A few peasant women are present,
 their sombre garments clashing with the blue and red uniforms.
 
 It is a musical mass, and the music is worthy of a cathedral: all the
@@ -501,7 +474,7 @@ to nervous attacks.
 Reymond, Verrier and myself have obtained a pass for Langres. Lunch
 at the hotel; napkins and tablecloth. What luxury! The young lady who
 serves us is very polite. We enter various shops to purchase chocolate,
-wax candles, writing-paper, blacking, a lantern and some of Molière's
+wax candles, writing-paper, blacking, a lantern and some of MoliÃ¨re's
 plays to read aloud in the loft.
 
 We return to Humes at six o'clock, shouting out songs at the top of our
@@ -516,8 +489,8 @@ notice. My name is on the list, which includes men of the youngest
 classes and volunteers. It forms the contingent complement.
 
 We are fitted out from head to foot. First, we receive a blue muff with
-which each man immediately covers his _képi_. This is the rallying
-sign. Out in the streets, comrades who see us wearing a blue _képi_
+which each man immediately covers his _kÃ©pi_. This is the rallying
+sign. Out in the streets, comrades who see us wearing a blue _kÃ©pi_
 say--
 
 "Ah! So you are one of the complement?"
@@ -639,7 +612,7 @@ afternoon watching the trains full of wounded pass by.
 "My walk had a definite purpose, you see," he adds.
 
 Down below, we hear the faint tinkling of a bell, suspended from
-the neck of an enormous dog, which we have nicknamed the _chien à
+the neck of an enormous dog, which we have nicknamed the _chien Ã 
 sonnettes_.
 
 In spite of his manifestly gentle disposition, this animal fills us
@@ -650,7 +623,7 @@ has bitten no one, so far.
 
 _Thursday, 20th August_.
 
-Is this the last réveillé in the loft? It has become a very comfortable
+Is this the last rÃ©veillÃ© in the loft? It has become a very comfortable
 spot. In the hay, where I lie wrapped up in a quilt, with a cotton
 nightcap coming over my ears, I would gladly sleep on into the middle
 of the morning. But it is five o'clock, and we must rise.
@@ -677,7 +650,7 @@ and his appearance in our clan.
 
 The other day, at muster, there was a rumour abroad that we were soon
 to have a new sub-lieutenant from Alsace. Here he is, in the centre
-of the square; of medium height, _papier mâché_ appearance, very dark
+of the square; of medium height, _papier mÃ¢chÃ©_ appearance, very dark
 moustache, and the half-closed eyes of a myope. He wears red trousers
 and an extraordinary black coat, chimney-corner style, with a little
 gold lace at the sleeves. I look curiously at him, wondering where the
@@ -697,7 +670,7 @@ Raising my hands, I say--
 "I beg your pardon, I have never seen you except in a dress suit."
 
 And indeed, I remembered on the occasion of more than one general
-rehearsal the elegant appearance of my confrère. Comparing to-day's
+rehearsal the elegant appearance of my confrÃ¨re. Comparing to-day's
 silhouette with that of former times, I simply remark--
 
 "What a change! You look better in civilian clothes."
@@ -712,7 +685,7 @@ they see the French?"
 "That's what they say at the depot, is it? Well, since you are about to
 leave for the front, you will see for yourselves."
 
-Roberty is bored to death at Humes, though he tolerates the Hôtel
+Roberty is bored to death at Humes, though he tolerates the HÃ´tel
 Girardot, with its garden and loft. He forgets his rank, and spends
 his leisure time with us. Discipline has already gained such a hold on
 us that at first we feel uneasy at such intimacy with a lieutenant.
@@ -814,7 +787,7 @@ catastrophe.
 
 During the night we have changed direction: instead of continuing
 towards the east, Gerardmer and the Schlucht, at Laveline we were
-shunted on to the line of Saint-Dié--Lunéville, across the Vosges. In
+shunted on to the line of Saint-DiÃ©--LunÃ©ville, across the Vosges. In
 the distance to the right we hear the roar of the cannon.
 
 Raon-l'Etape. All change! It is noon. To the east of the station is a
@@ -1300,7 +1273,7 @@ from six o'clock till midnight.
 
 _Wednesday, 26th August._
 
-At daybreak we reach Rambervillers. A major procures for me a _képi_
+At daybreak we reach Rambervillers. A major procures for me a _kÃ©pi_
 and an odd coat, and sends me to the hospital.
 
 My one object now is to find a pair of spectacles. The streets are
@@ -1417,7 +1390,7 @@ Chalindrey, where I have two hours to wait for the Langres train.
 
 I wonder if I can find a chemist's shop. One is pointed out to me.
 The chemist looks me over with considerable suspicion and mistrust. A
-shapeless _képi_, a dirty, threadbare coat, and an unshaven face all
+shapeless _kÃ©pi_, a dirty, threadbare coat, and an unshaven face all
 covered with mud are not prepossessing features. He asks--
 
 "My dear fellow, what do you do in ordinary times?"
@@ -1436,7 +1409,7 @@ though I were one of these. Then they motor me back to Humes. I cannot
 find words to thank them, nor do I know how to tell them that I will
 not forget their kindness.
 
-The Hôtel Girardot and _Père Achille_ at the door! He recognizes me.
+The HÃ´tel Girardot and _PÃ¨re Achille_ at the door! He recognizes me.
 
 "A ghost!"
 
@@ -1531,7 +1504,7 @@ entire confidence, however.
 
 _Tuesday, 1st September._
 
-Réveillé at three o'clock. The men who are well trained and ready to
+RÃ©veillÃ© at three o'clock. The men who are well trained and ready to
 leave, and those who are weakly and more or less raw, are divided out
 into separate companies.
 
@@ -1568,7 +1541,7 @@ our front from the Somme to the Vosges...."
 The Somme! We thought this phrase was simply a local _canard_, that by
 a typographical error the word _Somme_ had replaced the word _Sambre_.
 We imagined that fighting was still going on in Belgium. And the
-communiqué of the 30th states that the Imperial Guard received a check
+communiquÃ© of the 30th states that the Imperial Guard received a check
 at Guise....
 
 We read, without any great interest, details upon the constitution
@@ -1588,7 +1561,7 @@ eyes; Jacquard, a little man who vainly tries to shout as loudly as
 Varlet, whose voice is that of a mob orator; lastly, Charensac, who
 comes from Auvergne, and resembles Sancho Panza in being as broad as
 he is tall. The latter man has a roguish little dark moustache, and
-a beard that covers his neck. He wears his _képi_ on the back of his
+a beard that covers his neck. He wears his _kÃ©pi_ on the back of his
 head, over his neck. His paunch protrudes in the same extravagant
 fashion. The fellow seems determined to treat the war as a huge joke.
 These three march in the second rank; Reymond and I in the first, along
@@ -1628,15 +1601,15 @@ _Saturday, 5th September._
 No marching or drill to-day, since the order to leave may arrive any
 moment.
 
-The English, says the communiqué, have taken ten cannon in the forest
-of Compiègne....
+The English, says the communiquÃ©, have taken ten cannon in the forest
+of CompiÃ¨gne....
 
-The Germans at Compiègne?... The train from Paris did not arrive this
+The Germans at CompiÃ¨gne?... The train from Paris did not arrive this
 morning. It is becoming quite stifling here.
 
 What is worse than the official dispatches is the multiplication of
 fantastic news. A famous airman has been shot as a spy; a mined forest
-in the neighbourhood of Lunéville has been fired, destroying three
+in the neighbourhood of LunÃ©ville has been fired, destroying three
 German army corps....
 
 From Brittany a telegram reaches me dated 31st August. It has been only
@@ -1706,7 +1679,7 @@ He saw the corpses heaped up in piles. One piece of good news at all
 events.
 
 I take my leave of the Girardot family; we shake hands and drink
-healths. Then I fondle and caress the huge dog, the _chien à
+healths. Then I fondle and caress the huge dog, the _chien Ã 
 sonnettes_, whose bell gives forth a more melancholy tinkle than ever.
 
 The campaign at Humes is ended.
@@ -1766,7 +1739,7 @@ Belin, our corporal, has served nine years in the Foreign Legion, and
 so he knows the ropes. The gentlest and pleasantest of companions. In
 the two first-class carriages, besides Roberty, are Reymond and myself,
 Maxence, whom I have already mentioned, a handsome fellow from the
-Franche-Comté, head taller than the rest of us, a lawyer and big landed
+Franche-ComtÃ©, head taller than the rest of us, a lawyer and big landed
 proprietor, who knows Verlaine by heart, and lastly, Jacquard, Varlet
 and Charensac.
 
@@ -1791,7 +1764,7 @@ _Thursday, 10th September._
 Corbeil. Six hours' forced inactivity! We make some coffee along
 the track. A train full of wounded enters the station. We hurry to
 the doors of the vans and find that they are packed with soldiers
-of all sorts, lying _pêle-mêle_ on the floor, arms, legs and heads
+of all sorts, lying _pÃªle-mÃªle_ on the floor, arms, legs and heads
 intertwined. The uniforms are unrecognizable and in rags, covered with
 dust and blood.
 
@@ -1828,7 +1801,7 @@ Anxious to create a feeling of sympathy, he exhibits his wound.
 
 I say to him--
 
-"_Mon garçon_, you shouldn't have gone to war."
+"_Mon garÃ§on_, you shouldn't have gone to war."
 
 No sooner has one train left the station than another steams up; for
 several hours the wounded file past without a break.
@@ -1863,7 +1836,7 @@ treat us as heroes just the same.
 
 A second halt at Rue Auber. The crowd around grows larger and larger.
 It appears that Paris has been really threatened. This morning's
-communiqué, however, states that the enemy has retired a distance of
+communiquÃ©, however, states that the enemy has retired a distance of
 forty kilometres.
 
 At the Gare Saint-Lazare more than two hundred out of the five hundred
@@ -1978,13 +1951,13 @@ intervene before we can enter the place.
 Meanwhile, the stores have arrived. Whilst the pots are boiling we
 improvise a lunch for twenty-five in the large dining-room. The manager
 lends us napkins and a tablecloth, plates and glasses, and even a
-_jardinière_ for putting flowers on the table. Our ordinary fare
+_jardiniÃ¨re_ for putting flowers on the table. Our ordinary fare
 includes a fillet of beef and we have bought three fowls. Each man
 brings his own wine and bread.
 
 This sybaritic life, however, cannot last indefinitely. At two o'clock
 we make our way through a district which has witnessed terrible
-battles. Arms and equipments, _képis_ and helmets and cloaks strew
+battles. Arms and equipments, _kÃ©pis_ and helmets and cloaks strew
 the ground. The smell of decomposing bodies passes in whiffs; it
 proceeds mainly from dead horses, still unburied, rotting away, their
 bodies all swollen and their legs rigid. By the side of a stack of
@@ -2000,7 +1973,7 @@ recipients may have a good time in Paris, etc.
 Peasants come along with tales that uhlans are lurking in the
 neighbourhood. We waste a couple of hours in sending patrols to scour
 the woods. Not a single uhlan to be seen. We are caught in a shower
-of rain and reach Lévignen at nightfall, wet through. The silence and
+of rain and reach LÃ©vignen at nightfall, wet through. The silence and
 solitude are intense. Enormous gaps in the houses have been made by
 shells. The gamekeeper--perhaps the only inhabitant--proposes to the
 lieutenant that the detachment be lodged in the church. By the light of
@@ -2027,7 +2000,7 @@ die. A smell of decomposing flesh puts us to flight.
 
 The detachment again starts off early across a devastated land. We are
 gaily received by the inhabitants of Villers-Cotterets, who, delivered
-from the enemy a couple of nights previously, fête the French troops
+from the enemy a couple of nights previously, fÃªte the French troops
 incessantly marching into the town.
 
 We quarter ourselves in the goods station, already partly occupied by
@@ -2037,7 +2010,7 @@ appears behind a huge pot filled with coffee, from which the wounded
 help themselves. A German, his field-grey uniform in tatters, his jaws
 contracted and arms and legs all twisted up, is dying in a corner
 between two men attendants who do their best to relieve his agony.
-Other Germans, more or less wounded, lie _pêle-mêle_ on the straw near
+Other Germans, more or less wounded, lie _pÃªle-mÃªle_ on the straw near
 our own men. No disputes or quarrels, victors and vanquished are alike
 exhausted.
 
@@ -2102,7 +2075,7 @@ They ask--
 
 "Fifteen kilometres."
 
-"_Ah! Là là!_"
+"_Ah! LÃ  lÃ !_"
 
 Amongst them are men of the 352nd. Having met at the depot we recognize
 one another, and ask--
@@ -2217,7 +2190,7 @@ join us. Here, at all events, we are somewhat sheltered from the
 rain. I feel the ground: it is a bed of dung, and soft to the touch.
 Somebody's muddy shoe is pressed against my face; my back is being used
 as a pillow by the lieutenant. Huddling together, we feel the cold
-less. We have had no dinner, merely some _pâté de foie gras_ spread
+less. We have had no dinner, merely some _pÃ¢tÃ© de foie gras_ spread
 between biscuits as hard as wood. There is a strange odour about our
 hands, and the dining-room is anything but comfortable.
 
@@ -2399,7 +2372,7 @@ And he begins--
  with half-closed eyes, seem on the point of death. All have enormous
  dressings, stained with blood. Nurses eagerly attend to their needs.
 
- On the platforms, _pêle-mêle_ with the soldiers, stand groups of
+ On the platforms, _pÃªle-mÃªle_ with the soldiers, stand groups of
  families, refugees from Belgium, the Ardennes and the Aisne. Women,
  seated on enormous bundles, weep all the time, though they keep an
  eye on the urchins as the latter play with the soldiers.
@@ -2408,15 +2381,15 @@ And he begins--
  clean-shaven, boyish faces, laughing heartily. They are in spick and
  span condition. We shout greetings to one another. In the distance I
  perceive the Eiffel Tower, which seems to me the finest monument in
- the world. At Argenteuil, Archères, and all the stations, stand women,
+ the world. At Argenteuil, ArchÃ¨res, and all the stations, stand women,
  children, and old men along the line, cheering us as we pass, and
  sending kisses after us.
 
  On the night of the 3rd we are still _en route_. The lines are
  blocked, causing detours and occasioning delays. At Mantes we learn
- that the German cavalry have put in an appearance at Compiègne and
+ that the German cavalry have put in an appearance at CompiÃ¨gne and
  Senlis. We are informed that the Government is leaving for Bordeaux.
- We descend at Bourget, and at Chennevières-les-Louvres rejoin the
+ We descend at Bourget, and at ChenneviÃ¨res-les-Louvres rejoin the
  regiment, which has been put to a severe trial at Proyart, in the
  Somme. It is then sent to the rear and entrusted with the duty of
  protecting the retreat. I am transferred to the 23rd company.
@@ -2540,7 +2513,7 @@ And he begins--
  We remain where we are until the following afternoon, the 10th
  September. Everything is perfectly quiet. After a gay lunch we stroll
  about a little. We notice French aeroplanes returning to headquarters
- at Brégy.
+ at BrÃ©gy.
 
  In the evening we are quartered at Bouillancy, abandoned on the 7th
  by the Germans after a severe struggle: roofs and walls knocked in,
@@ -2911,7 +2884,7 @@ In the morning we mount to the trenches and the day is spent idling
 about the grass. We have surrounded a corner of the meadow with
 branches of trees, sharpened and driven into the ground. No enemy,
 however excellent his observation glasses, could possibly discover our
-whereabouts. It is almost as peaceful as under the apple-tree of _Père
+whereabouts. It is almost as peaceful as under the apple-tree of _PÃ¨re
 Achille_. A fencing match, with sticks for swords.
 
 Whenever the hum of an aeroplane is heard, the usual cry is raised--
@@ -2968,7 +2941,7 @@ future, seeing that the entire situation may change from day to day.
 
 _Thursday, 1st October._
 
-At dawn we leave for Le Châtelet, a hamlet perched on the heights
+At dawn we leave for Le ChÃ¢telet, a hamlet perched on the heights
 overlooking the left bank of the Aisne, in front of Vic. A magnificent
 view over the valley. The company is to remain quartered here several
 weeks, to organize the position. The farm in which we are to lodge is
@@ -2980,19 +2953,19 @@ I feel that I shall resume my old habits of cleanliness.
 
 _Friday, 2nd October._
 
-Alas! Réveillé at two in the morning. The situation has changed. The
+Alas! RÃ©veillÃ© at two in the morning. The situation has changed. The
 24th goes down to Gorgny, and with arms piled and haversacks on the
-ground, is waiting in the enclosure of the château. At five comes the
+ground, is waiting in the enclosure of the chÃ¢teau. At five comes the
 order to depart. _En route_ for Courmelles, somewhere to the south of
 Soissons.
 
 A forced march of thirty kilometres through the night. At eleven
 o'clock we reach Courmelles, utterly worn out. Whilst waiting until our
-quarters are ready, we lie down _pêle-mêle_ on the road alongside the
+quarters are ready, we lie down _pÃªle-mÃªle_ on the road alongside the
 houses. A Moroccan brigade crosses the village. The moonlight projects
 a bluish light on to the rapid and silent march of these men, wrapped
 in great hoods and with enormous haversacks towering above their heads:
-Mâtho's mercenaries. They are going in a northerly direction.
+MÃ¢tho's mercenaries. They are going in a northerly direction.
 
 The squadron sleeps in a loft abounding in straw. To cover my body I
 have a potato sack, which I use as a hood in the daytime.
@@ -3121,7 +3094,7 @@ Out in the open, the order comes to fling away our cigarettes. Things
 are becoming serious. We pass through the suburbs of Soissons; the
 cathedral appears dimly in the moonlight. At the corner of a street
 lies a dead horse. All along the main road are the bivouacs of Alpine
-troops. Vénizel. Here the English are guarding a level-crossing;
+troops. VÃ©nizel. Here the English are guarding a level-crossing;
 strapping fellows in khaki, who smoke pipes and shout "Good-night!"
 to us. Then a bridge, the crossing of the Aisne, an open plain, a
 village, a steep hill, a wood as dark as Hades. In spite of the cold
@@ -3215,7 +3188,7 @@ At five o'clock Belin takes us back to the rear. We are dreadfully cold
 and our teeth are chattering. A good drink of hot coffee, followed by a
 mouthful of brandy, and we fall asleep.
 
-The position dominating Bucy-le-Long and the plain of Vénizel was
+The position dominating Bucy-le-Long and the plain of VÃ©nizel was
 carried last month by the English and a body of Zouaves. They drove the
 Germans from the valley back to the heights and only halted on reaching
 a plain which extends to the horizon, a vast field of beetroots cut by
@@ -3460,9 +3433,9 @@ _Saturday, 24th October._
 
 As we see from letters and newspapers, civilians share in all the
 agitation and excitement of the war. We are out of all this. By the
-aid of successive communiqués, those left behind follow the various
+aid of successive communiquÃ©s, those left behind follow the various
 incidents of the great war on all the fronts at once. Perhaps, too,
-they receive the _Bulletin des Armées_, not a single number of which we
+they receive the _Bulletin des ArmÃ©es_, not a single number of which we
 have yet seen....
 
 They will not have lost a crumb of information! Whereas for a month and
@@ -3682,7 +3655,7 @@ spent the night under cover.
 
 A pretty picture we make! For a hood I have flung over my head a
 potato-sack, and over my shoulders a wet bed-cover, as our grandmothers
-used to do with their cashmere shawls. Hands and coats, _képis_ and
+used to do with their cashmere shawls. Hands and coats, _kÃ©pis_ and
 puttees are all covered with sticky yellow mud, whilst our rifles are
 useless, owing to the barrel being stopped up and the mechanism filled
 with earth.
@@ -3708,7 +3681,7 @@ these depths we scarcely hear the roar of the cannon at all.
 At nightfall the entrance assumes quite a romantic aspect: a Hindu
 temple or Egyptian hypogeum, with its blue shadows and vivid lights. By
 moonlight it would make a fitting scene for the witches in Macbeth. Not
-long ago we should have spoken of Fafner's cave, _Fafner's Höhle_!
+long ago we should have spoken of Fafner's cave, _Fafner's HÃ¶hle_!
 
 In the interior the sharp-edged stone also gives the impression of
 theatrical cardboard scenery; the atmosphere is that of the Quarter:
@@ -3739,7 +3712,7 @@ sneer.
 _Friday, 30th October._
 
 Since last evening there has been a continuous fusillade in the
-direction of the fort of Condé. The Germans are furiously bombarding
+direction of the fort of CondÃ©. The Germans are furiously bombarding
 the second line of our sector. A convoy of munitions passes along the
 road. Two gunners are wounded. We hear them cry out in the night--
 
@@ -3797,7 +3770,7 @@ to the mourning families of the dead soldiers.
 
 _Sunday, 1st November._
 
-A hot sun and a brilliant day, the right weather for a fête. The first
+A hot sun and a brilliant day, the right weather for a fÃªte. The first
 line is calmer than ever. Not a cannon shot is heard.
 
 
@@ -3813,7 +3786,7 @@ lines. He discovers his mistake just in time and we beat a retreat.
 Sergeant Chaboy, making his round, stops to have a few words with us.
 
 "Expect to be fired upon shortly," he says. "An attack is brewing from
-the direction of Condé."
+the direction of CondÃ©."
 
 After a silence, he adds--
 
@@ -3830,7 +3803,7 @@ make a sketch and I to write a letter, as we await the promised attack.
 Nothing happens, however. Sleep is our only enemy. Reymond puts on his
 poncho, wraps a red silk handkerchief round his head, and, pretending
 to strum away on a shovel as though it were a mandolin, softly hums a
-_malagueña_.
+_malagueÃ±a_.
 
 
 _Tuesday, 3rd November._
@@ -3855,7 +3828,7 @@ The captain explains--
 
 "I am off to inspect my battery. During my absence, sit here and keep
 your eyes glued to the telescope. What you see is one of the entrances
-of the fort of Condé, about five kilometres distant. If you find the
+of the fort of CondÃ©, about five kilometres distant. If you find the
 enemy mustering, telephone immediately. The spot is marked, our guns
 will be fired, and you will be able to see what happens."
 
@@ -3896,7 +3869,7 @@ well feel proud. How nice to be some one "with his wits about him."
 
 _Wednesday, 4th; Thursday, 5th November._
 
-My rôle as observer is rendered ineffectual by a dense mist.
+My rÃ´le as observer is rendered ineffectual by a dense mist.
 
 Alpine infantry from the _Midi_ relieve us. The company goes down
 to quarter at Bucy-le-Long. We have now been in the trenches twelve
@@ -4083,7 +4056,7 @@ winding; a sort of toboggan covered with pebbles.
 A candle, quick! We gather round the flame.
 
 "Boys," says Reymond, "since we are not going to die immediately,
-suppose we break into my best _pâté de foie gras_?"
+suppose we break into my best _pÃ¢tÃ© de foie gras_?"
 
 Agreed unanimously. We summon Varlet and Jacquard, and the six of us
 devour some famous sandwiches. Unfortunately, there is nothing to drink.
@@ -4137,15 +4110,15 @@ to stamp the soles of our boots on the ground, or knock them against
 the trunk of a tree. The soup reaches us in a congealed condition.
 
 At three o'clock the infantry come to replace us. Gladly do we give way
-to them, and the company retires to Bucy. We sleep at "La Rémoise," a
-combined café and grocer's store. The mistress agrees to serve dinner
+to them, and the company retires to Bucy. We sleep at "La RÃ©moise," a
+combined cafÃ© and grocer's store. The mistress agrees to serve dinner
 and allows us to sleep under the tables of the large dining-room, on
 the floor. Quite enough to satisfy us this evening.
 
 
 _Tuesday, 10th November._
 
-At "La Rémoise" we do not feel at home; we must find something better.
+At "La RÃ©moise" we do not feel at home; we must find something better.
 On the other side of the street is a house intact. There I find two old
 people, brother and sister, and after a little bargaining they consent
 to receive Maxime, Verrier, Reymond, myself, and Jules, for Roberty's
@@ -4804,7 +4777,7 @@ drayman, possesses the classic physique of a Zouave.
 _Piaf_ and Briban are now our cooks. Briban is called the "Fireman,"
 because, having had his head-gear removed by a bullet in September,
 after going for a whole week in a cotton cap, he at last found in a
-field a fireman's _képi_, of which he took immediate possession.
+field a fireman's _kÃ©pi_, of which he took immediate possession.
 
 The first company also includes Verrier, Maxence, Varlet, Jacquard,
 Reymond and myself. A fine squadron.
@@ -4919,7 +4892,7 @@ Belin makes a friendly review to assure himself of the fact.
 Thin and sharp-featured, his capote well brushed and stretched, and the
 lower part of his trousers rolled inside his leggings, Belin exhibits
 subtle poisings of his body and impressive movements of his arm as he
-points to the sky. He knows how to shout out the "_Hô Mohâmed!_" the
+points to the sky. He knows how to shout out the "_HÃ´ MohÃ¢med!_" the
 rallying cry intended to reach the ears of the comrade who has gone
 astray.
 
@@ -4944,7 +4917,7 @@ The German offensive seems to have been broken. What will they attempt
 now?
 
 This morning our attack of the 12th is honoured by the following
-communiqué: "We have made slight progress between Crouy and Vregny."
+communiquÃ©: "We have made slight progress between Crouy and Vregny."
 Multum in parvo. Here's something to make us proud, but more especially
 something to make us modest and patient when we think of what those men
 are going through who are fighting in the North, living and dying in
@@ -5078,7 +5051,7 @@ The Pont-Rouge road, which leads direct to the enemy, who is
 entrenched three hundred yards away, is blocked by a rampart of
 sand-bags. These bags are covered with blood. It was here that the 5th
 Battalion, on the 12th of this month, deposited their wounded and dead.
-A few broken rifles heaped up along the copse, _pêle-mêle_ with various
+A few broken rifles heaped up along the copse, _pÃªle-mÃªle_ with various
 military equipment.
 
 Balls whistle in our ears; sometimes they ricochet on the frozen ground
@@ -5087,7 +5060,7 @@ and glance off with a singing sound.
 
 _Saturday, 21st November._
 
-To-night the thermometer is 13° Centigrade below zero. I have slept
+To-night the thermometer is 13Â° Centigrade below zero. I have slept
 very well, in the open air, rolled in canvas wrappings at the bottom
 of the trench. On waking I see Jacquard's hirsute beard, kind innocent
 eyes and red nose. The rest of his face is swathed in chestnut-coloured
@@ -5163,7 +5136,7 @@ certain degree of reserve, but Jules speedily finds reassuring words;
 he exhorts us to mend our manners, and pays court to the ladies. A most
 valuable fellow, Jules!
 
-He is a native of Franche-Comté. Evidently this district does not
+He is a native of Franche-ComtÃ©. Evidently this district does not
 produce thin sorry-looking specimens of humanity. Jules possesses the
 frame and physique of a wrestler. His big shining face, flanked with
 enormous ears, is illumined by two small eyes which give the impression
@@ -5200,7 +5173,7 @@ Jules' activity to attend to them.
 and sleeping in the village. Run along and find us a house."
 
 Jules pretends to be considerably embarrassed. He raises his arms,
-takes his _képi_ between his first finger and thumb, and scratching his
+takes his _kÃ©pi_ between his first finger and thumb, and scratching his
 head with his other three fingers, says--
 
 "That's just your way! Jules, find me this, or Jules, find me that!
@@ -5229,7 +5202,7 @@ company in general--
 round. Besides, I gave her to understand that you were real gentlemen."
 
 The natives of the South of France may be braggarts; anyhow, this one
-from the Franche-Comté could easily give them points. If mention is
+from the Franche-ComtÃ© could easily give them points. If mention is
 made of a farmer's wife or even of some lady of the manor within a
 radius of ten leagues, Jules begins to cluck like a hen, to slap his
 hands on his thighs, and with appropriate gestures he gives us to
@@ -5390,7 +5363,7 @@ outhouses. A fowl is killed on a dunghill by a shrapnel ball. What with
 the boom of the cannon and the bleating of the sheep, the hours pass
 very slowly. Reymond, however, pilots us over the grotto as though it
 were a gallery of Roman catacombs. Provided with a piece of candle,
-he mumbles away like a sexton: "_Questo è la tomba di santa Cecilia;
+he mumbles away like a sexton: "_Questo Ã¨ la tomba di santa Cecilia;
 tutto marmo antico!_" When the cannonade stops, out in the yard he
 organizes a fancy bullfight, in which each of us, supplied with the
 necessary accessories, in turn impersonates the bull, the espada, the
@@ -5437,7 +5410,7 @@ The next moment the ranks are broken, and each man returns to his
 quarters, laughing and joking at the incident.
 
 After all, we make a jest of everything. This is the secret of that
-dash and enthusiasm boasted of in the official communiqués, and about
+dash and enthusiasm boasted of in the official communiquÃ©s, and about
 which civilians must have the most vague ideas. The good humour that
 has stood a campaign of four months must be in the grain; at all
 events, it is of quite a special kind.
@@ -5461,10 +5434,10 @@ again, it remains here.
 
 This evening, in the grotto, Maxence lies on his back smoking a
 cigarette. He murmurs softly to Reymond, who is making a sketch, some
-lines from the _Fêtes galantes_--
+lines from the _FÃªtes galantes_--
 
  _Au calme clair de lune triste et beau
- Qui fait rêver les oiseaux dans les arbres
+ Qui fait rÃªver les oiseaux dans les arbres
  Et sangloter d'extase les jets d'eau,
  Les grands jets d'eau sveltes parmi les marbres._
 
@@ -5693,7 +5666,7 @@ nothing.
 No, this time no great damage has been done.
 
 "A 150 shell exploded in Madame B.'s garden, over there on the right,
-and _père_ Untel just missed being killed in his loft by a spent ball."
+and _pÃ¨re_ Untel just missed being killed in his loft by a spent ball."
 
 We remark gravely--
 
@@ -5807,7 +5780,7 @@ morning, but this is something it is impossible to "cut."
 Between meals I write letters. Maxence, seated near the fire, with his
 legs crossed and his hand under his chin, smokes cigarettes. He muses,
 and at the same time keeps an eye on a rice pudding on the point of
-boiling over. This native of Franche-Comté feasts on the most insipid
+boiling over. This native of Franche-ComtÃ© feasts on the most insipid
 things, and obstinately refuses to drink wine or to eat cheese. Fond of
 hunting, he chatters away to Jules, who comes from the same province.
 Landed proprietor and poacher discuss the different methods of tracking
@@ -5822,7 +5795,7 @@ him roll a cigarette enables one to see that he never does anything
 lightly.
 
 About noon the _Petit Parisien_ reaches Bucy. The reading of the
-communiqué and the dispatches gives us to understand how impossible
+communiquÃ© and the dispatches gives us to understand how impossible
 it is to foresee the end of the war. Six months ... a year.... Such
 are the hypotheses we once laughed at, though now they appear logical
 enough. At bottom, we believe there will happen something unexpected
@@ -5850,7 +5823,7 @@ the room, between fireplace and bed, is everlastingly drawing away at
 a pipe that has gone out. From time to time he walks to the door and
 stands there for a while. On returning, he says--
 
-"There's some heavy firing going on above the Gué-Brûlé."
+"There's some heavy firing going on above the GuÃ©-BrÃ»lÃ©."
 
 
 _Saturday, 12th December._
@@ -5939,7 +5912,7 @@ The entire plain is furrowed with a vast network of fortifications. The
 Germans construct listening posts eighty yards distant from our own. In
 a few more weeks the wires will be touching one another.
 
-From our front lines project antennæ or feelers, portions of trench
+From our front lines project antennÃ¦ or feelers, portions of trench
 driven as near as possible to the enemy, and connected with the main
 trench by a deep zigzag branch.
 
@@ -5989,7 +5962,7 @@ visit. Few serious cases; chiefly the wan expressions and dejected
 looks of tired men.
 
 Here comes the major. He has just finished breakfast with the
-colonel, who is staying at the château opposite. He is from the
+colonel, who is staying at the chÃ¢teau opposite. He is from the
 Vosges--young-looking and slim, average height, of ruddy complexion,
 with a rough voice and dark, piercing eyes. As each man awaits his turn
 he questions the attendants--
@@ -6019,7 +5992,7 @@ as the intestines. The doctor accordingly asks--
 Every one receives his deserts. The genuine cases are "exempt from
 trench service"; those who are war-worn and tired out are exempted from
 some particular duty. As for the rest, the major writes opposite their
-names on the sergeant's card the words, _Visite motivée_, a cabalistic
+names on the sergeant's card the words, _Visite motivÃ©e_, a cabalistic
 formula implying that there was no reason whatsoever why they should
 have come up for examination.
 
@@ -6081,7 +6054,7 @@ already.
 
 "Now, be careful. No nonsense, remember!"
 
-A _tête-à-tête_ dinner, a very quiet affair, after which we lie down on
+A _tÃªte-Ã -tÃªte_ dinner, a very quiet affair, after which we lie down on
 our beds.
 
 "How comfortable!"
@@ -6092,7 +6065,7 @@ back in civil life!
 The low-roofed room, which receives air and light only by way of the
 door, was evidently white-washed long ago. There are spiders' webs in
 every corner. The floor consists of beaten earth. The walls are bare
-except for two chromos--Nicholas II and Félix Faure--just visible
+except for two chromos--Nicholas II and FÃ©lix Faure--just visible
 beneath fly-stained glasses. The beds take up almost the entire space
 available. We sleep right through the night and late into the next
 morning. The hours spent in profound slumber represent so much gained
@@ -6128,14 +6101,14 @@ attendants. A hearty welcome, cups of tea, every one very polite.
 A couple of armchairs are provided for us by the fireplace. We are
 treated like lords of a manor.
 
-The Germans are now firing upon Vénizel, some distance farther away.
+The Germans are now firing upon VÃ©nizel, some distance farther away.
 The petrol works seem to be in flames. Our hosts invite us to view the
 spectacle from the second floor. It is hazy, however, and nothing can
 be distinguished except a dense cloud of yellowish smoke on the other
 bank of the Aisne.
 
 "Really, you have no luck at all!" exclaim the attendants; "generally
-we can make out Vénizel as distinctly as though we were in the town
+we can make out VÃ©nizel as distinctly as though we were in the town
 itself."
 
 Soissons also is being violently bombarded.
@@ -6259,7 +6232,7 @@ things one cannot understand at all.
 _Monday, 21st December._
 
 During the night a regiment of territorials have arrived who have not
-yet seen fire. They make a fine _début_, for Bucy is subjected to a
+yet seen fire. They make a fine _dÃ©but_, for Bucy is subjected to a
 heavier bombardment than ever; explosions for three hours without a
 break. A rain of iron splinters and balls falls upon the roof of our
 lodging. The tiles come toppling down into the yard. Varlet, who has
@@ -6350,7 +6323,7 @@ German alike. The sergeant in command of the patrol goes out into the
 hail of iron to bring back the wounded man, and returns intact, though
 his clothes are torn to shreds and his hands are all blood-stained. The
 corporal's arm is reduced to pulp, and his thigh has also received a
-ball. The hæmorrhage is stopped as well as circumstances permit.
+ball. The hÃ¦morrhage is stopped as well as circumstances permit.
 
 The lieutenant comes round and says--
 
@@ -6503,7 +6476,7 @@ have some sourcrout--Alsatian, of course. There are five large tins of
 it, along with a knuckle of ham. Then follow all kinds of sausages,
 one of which has come from Milan. We speedily dispatch it, at the same
 time exhorting our "Latin sister" to join in with us. Carried away by
-an irresistible impulse, the squadron takes by assault several _pâtés
+an irresistible impulse, the squadron takes by assault several _pÃ¢tÃ©s
 de foie gras_. The dessert is most varied: pears, oranges, preserves
 in jars, in tubes and in pails, a pudding which flames up when you
 apply a match to it, and, last of all, a drink which the cook has most
@@ -6540,18 +6513,18 @@ the songs of Montmartre, artistes' refrains, fertile in spicy nonsense.
 We mark time by tapping our empty plates with the back of the hand.
 The noisy merriment is intensified when we come to the chorus.
 
-With frenzied enthusiasm the squadron shouts out the chorus of Hervé's
+With frenzied enthusiasm the squadron shouts out the chorus of HervÃ©'s
 _Turcs_--
 
  _Nous, nous sommes les soldats
  Et nous marchons au pas,
- Plus souvent au trépas...._
+ Plus souvent au trÃ©pas...._
 
 And now Charensac comes forward.
 
 "Make way for the Ambassador of Auvergne," barks out Varlet.
 
-"Quite right, I am from Auvergne, and I'm going to dance the _bourrée_."
+"Quite right, I am from Auvergne, and I'm going to dance the _bourrÃ©e_."
 
 He dances it, all alone. Some of the audience, making a humming sound
 with their hands, the rest whistling or else beating time with cans and
@@ -6564,7 +6537,7 @@ exhausted, he still finds it possible to shout out in joyous accents--
 "Now, ladies and gentlemen, a collection for 'l'artisse.'"
 
 And he mimics in succession a lion-tamer and a lady walking the tight
-rope. The sous rain down into his _képi_.
+rope. The sous rain down into his _kÃ©pi_.
 
 Thereupon Charensac strikes a lyrical vein. He sings in the _patois_
 of Auvergne, and, being in an expansive mood, relates the whole of his
@@ -6626,8 +6599,8 @@ pickets serve the purpose of sceptres. Some one walks backwards in
 front of the kings, with an electric lamp raised above his head. This
 represents the star.
 
-The star guides us back to our _crèche_, where the candles have just
-flickered out. Kings and shepherds lie _pêle-mêle_ on the ground, and
+The star guides us back to our _crÃ¨che_, where the candles have just
+flickered out. Kings and shepherds lie _pÃªle-mÃªle_ on the ground, and
 the loud snoring soon proves them to be sound asleep.
 
 
@@ -6842,11 +6815,11 @@ one passes a certain corner. Charensac, however, disdains the very idea
 of peril; he is very brave. The other day, when he was brawling away as
 usual, his weary neighbour interrupted him--
 
-"_Ah! là, là_, you wouldn't make such a noise if we were attacking."
+"_Ah! lÃ , lÃ _, you wouldn't make such a noise if we were attacking."
 
 Charensac replied, not without an air of dignity, speaking
 instinctively of himself in the third person, as though he might have
-been Cæsar or Napoleon--
+been CÃ¦sar or Napoleon--
 
 "Don't trouble yourself about Charensac. Just keep by his side when
 there is hot work to be done, then no one will ever be in a position to
@@ -7120,7 +7093,7 @@ the hour of relief arrives.
 On reaching our Ali-Baba cave, we learn that a 210 shell fell this
 afternoon in front of the grotto on a spot which for months we have
 regarded as absolutely sheltered. Sergeant Martin has been hurled into
-the air and the cooks flung _pêle-mêle_ on to the ground. Even in the
+the air and the cooks flung _pÃªle-mÃªle_ on to the ground. Even in the
 galleries the men have been lifted off their feet by an irresistible
 shock. It is discovered that no one has received any real harm except
 Sergeant Martin, whose left leg has been cut off close to the pelvis.
@@ -7173,7 +7146,7 @@ Those left in the dug-out are busily occupied. First, there is the
 cleaning to be done. Our predecessors have left bones and pieces of
 waste paper lying about, and the sight is sickening.
 
-"_Ah, là là!_ Could they not have removed their own filth themselves?"
+"_Ah, lÃ  lÃ !_ Could they not have removed their own filth themselves?"
 
 Then three tent canvases are opened out upon one another in front of
 the entrance to the dug-out. This is a delicate operation: no space or
@@ -7374,14 +7347,14 @@ grotto, whilst a heavy cannonade is preparing an attack on Hill 132.
 
 The attack is made at sunset. The Moroccans and light infantry carry a
 third line of trenches, and fortify themselves on the upland, almost
-touching the Perrière farm.
+touching the PerriÃ¨re farm.
 
 
 _Monday, 11th January._
 
 The whole afternoon we stand at the entrance of the grotto watching the
 big projectiles fall upon Bucy. _Vr--ran!_ _vr--ran!_ In the evening,
-silence again reigns; the 21st and 24th go down to Vénizel, on the
+silence again reigns; the 21st and 24th go down to VÃ©nizel, on the
 Aisne, a distance of four kilometres from Bucy.
 
 For the first time since the 15th of November we are about to find
@@ -7462,7 +7435,7 @@ Meuret come running up, out of breath, and sputter out--
 Various exclamations. We hastily equip ourselves.
 
 When the section is mustered, the lieutenant first makes us cross the
-bridge of Vénizel and pass along the left bank of the Aisne, i.e.
+bridge of VÃ©nizel and pass along the left bank of the Aisne, i.e.
 in the direction opposite to the seat of battle. Here we begin to
 descend with the stream. The swollen waters, of slimy yellow, carry off
 debris of every kind. After proceeding a kilometre, we reach a wooden
@@ -7470,7 +7443,7 @@ bridge. The flood is so strong that the current threatens to wash over
 the flooring. This bridge has been constructed by the English; it
 still bears inscriptions in their language. We cross; again we find
 ourselves on the right bank. To reach the trenches we shall have
-to traverse, in open daylight, the plain of Vénizel, which is three
+to traverse, in open daylight, the plain of VÃ©nizel, which is three
 kilometres wide, and under the enemy's fire from the neighbouring
 heights.
 
@@ -7820,7 +7793,7 @@ slackens. I grasp a few hands.
 "_Au revoir_, old fellow. You'll get there all right."
 
 I cross Bucy. Stupefied, the inhabitants stand at the doors. There are
-ruins everywhere. A few of the women are in tears. The road to Vénizel:
+ruins everywhere. A few of the women are in tears. The road to VÃ©nizel:
 four kilometres straight across the plain. My fevered excitement
 sustains me, along with the one obsessing idea: If only I can reach the
 bridge I shall not be caught.
@@ -7847,7 +7820,7 @@ and I say--
 
 "I am not wounded, you know, I am only ill."
 
-Vénizel. I meet Perron, the head stretcher-bearer of the 352nd. He is
+VÃ©nizel. I meet Perron, the head stretcher-bearer of the 352nd. He is
 going to Billy, to bring away some wounded. He offers to accompany
 me, and takes my arm. Two more kilometres in the dark. Fortunately we
 know the country well. The cannon having stopped, the sudden silence is
@@ -7879,7 +7852,7 @@ _Thursday, 14th January._
 
 Twice in the night I awake with a start. Bare-footed and in my
 nightshirt, I run outside to listen. They are our own troops passing in
-the direction of Vénizel. The Germans will not cross the Aisne.
+the direction of VÃ©nizel. The Germans will not cross the Aisne.
 
 At eight in the morning I continue my way, with a wounded man belonging
 to the 21st. Billy is a very excited place.
@@ -7899,9 +7872,9 @@ Unfortunately, no one can tell me anything of Belin!
 
 At Septmonts an ambulance doctor examines me thoroughly.
 
-"Good; I must pack you off to bed. Go and see Desprès."
+"Good; I must pack you off to bed. Go and see DesprÃ¨s."
 
-Desprès has a small pavilion near the château, containing beds for
+DesprÃ¨s has a small pavilion near the chÃ¢teau, containing beds for
 about a score of sick and wounded. He is the hospital attendant. Busily
 engaged as he is, running from one bed to another, he gives me some
 food, and I speedily find myself tucked in between the white sheets.
@@ -7911,7 +7884,7 @@ How calm and quiet it is here! I feel more tired and feeble than ever.
 _Sunday, 17th January._
 
 For three days I have been resting here under the watchful care of
-Desprès, who bestows as much attention on his patients as would a
+DesprÃ¨s, who bestows as much attention on his patients as would a
 mother. It puzzles me exceedingly how this excellent and kind-hearted
 fellow manages to get through his various duties. In the intervals of
 sweeping out the room, I learn that his wife lives in the neighbourhood
@@ -7957,367 +7930,4 @@ UNWIN BROTHERS, LIMITED, THE GRESHAM PRESS, WOKING AND LONDON
 
 End of the Project Gutenberg EBook of Battles & Bivouacs, by Jacques Roujon
 
-*** END OF THIS PROJECT GUTENBERG EBOOK BATTLES & BIVOUACS ***
-
-***** This file should be named 58231-8.txt or 58231-8.zip *****
-This and all associated files of various formats will be found in:
-        http://www.gutenberg.org/5/8/2/3/58231/
-
-Produced by Brian Coe, Graeme Mackreth and the Online
-Distributed Proofreading Team at http://www.pgdp.net (This
-file was produced from images generously made available
-by The Internet Archive)
-
-Updated editions will replace the previous one--the old editions will
-be renamed.
-
-Creating the works from print editions not protected by U.S. copyright
-law means that no one owns a United States copyright in these works,
-so the Foundation (and you!) can copy and distribute it in the United
-States without permission and without paying copyright
-royalties. Special rules, set forth in the General Terms of Use part
-of this license, apply to copying and distributing Project
-Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
-concept and trademark. Project Gutenberg is a registered trademark,
-and may not be used if you charge for the eBooks, unless you receive
-specific permission. If you do not charge anything for copies of this
-eBook, complying with the rules is very easy. You may use this eBook
-for nearly any purpose such as creation of derivative works, reports,
-performances and research. They may be modified and printed and given
-away--you may do practically ANYTHING in the United States with eBooks
-not protected by U.S. copyright law. Redistribution is subject to the
-trademark license, especially commercial redistribution.
-
-START: FULL LICENSE
-
-THE FULL PROJECT GUTENBERG LICENSE
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-To protect the Project Gutenberg-tm mission of promoting the free
-distribution of electronic works, by using or distributing this work
-(or any other work associated in any way with the phrase "Project
-Gutenberg"), you agree to comply with all the terms of the Full
-Project Gutenberg-tm License available with this file or online at
-www.gutenberg.org/license.
-
-Section 1. General Terms of Use and Redistributing Project
-Gutenberg-tm electronic works
-
-1.A. By reading or using any part of this Project Gutenberg-tm
-electronic work, you indicate that you have read, understand, agree to
-and accept all the terms of this license and intellectual property
-(trademark/copyright) agreement. If you do not agree to abide by all
-the terms of this agreement, you must cease using and return or
-destroy all copies of Project Gutenberg-tm electronic works in your
-possession. If you paid a fee for obtaining a copy of or access to a
-Project Gutenberg-tm electronic work and you do not agree to be bound
-by the terms of this agreement, you may obtain a refund from the
-person or entity to whom you paid the fee as set forth in paragraph
-1.E.8.
-
-1.B. "Project Gutenberg" is a registered trademark. It may only be
-used on or associated in any way with an electronic work by people who
-agree to be bound by the terms of this agreement. There are a few
-things that you can do with most Project Gutenberg-tm electronic works
-even without complying with the full terms of this agreement. See
-paragraph 1.C below. There are a lot of things you can do with Project
-Gutenberg-tm electronic works if you follow the terms of this
-agreement and help preserve free future access to Project Gutenberg-tm
-electronic works. See paragraph 1.E below.
-
-1.C. The Project Gutenberg Literary Archive Foundation ("the
-Foundation" or PGLAF), owns a compilation copyright in the collection
-of Project Gutenberg-tm electronic works. Nearly all the individual
-works in the collection are in the public domain in the United
-States. If an individual work is unprotected by copyright law in the
-United States and you are located in the United States, we do not
-claim a right to prevent you from copying, distributing, performing,
-displaying or creating derivative works based on the work as long as
-all references to Project Gutenberg are removed. Of course, we hope
-that you will support the Project Gutenberg-tm mission of promoting
-free access to electronic works by freely sharing Project Gutenberg-tm
-works in compliance with the terms of this agreement for keeping the
-Project Gutenberg-tm name associated with the work. You can easily
-comply with the terms of this agreement by keeping this work in the
-same format with its attached full Project Gutenberg-tm License when
-you share it without charge with others.
-
-1.D. The copyright laws of the place where you are located also govern
-what you can do with this work. Copyright laws in most countries are
-in a constant state of change. If you are outside the United States,
-check the laws of your country in addition to the terms of this
-agreement before downloading, copying, displaying, performing,
-distributing or creating derivative works based on this work or any
-other Project Gutenberg-tm work. The Foundation makes no
-representations concerning the copyright status of any work in any
-country outside the United States.
-
-1.E. Unless you have removed all references to Project Gutenberg:
-
-1.E.1. The following sentence, with active links to, or other
-immediate access to, the full Project Gutenberg-tm License must appear
-prominently whenever any copy of a Project Gutenberg-tm work (any work
-on which the phrase "Project Gutenberg" appears, or with which the
-phrase "Project Gutenberg" is associated) is accessed, displayed,
-performed, viewed, copied or distributed:
-
-  This eBook is for the use of anyone anywhere in the United States and
-  most other parts of the world at no cost and with almost no
-  restrictions whatsoever. You may copy it, give it away or re-use it
-  under the terms of the Project Gutenberg License included with this
-  eBook or online at www.gutenberg.org. If you are not located in the
-  United States, you'll have to check the laws of the country where you
-  are located before using this ebook.
-
-1.E.2. If an individual Project Gutenberg-tm electronic work is
-derived from texts not protected by U.S. copyright law (does not
-contain a notice indicating that it is posted with permission of the
-copyright holder), the work can be copied and distributed to anyone in
-the United States without paying any fees or charges. If you are
-redistributing or providing access to a work with the phrase "Project
-Gutenberg" associated with or appearing on the work, you must comply
-either with the requirements of paragraphs 1.E.1 through 1.E.7 or
-obtain permission for the use of the work and the Project Gutenberg-tm
-trademark as set forth in paragraphs 1.E.8 or 1.E.9.
-
-1.E.3. If an individual Project Gutenberg-tm electronic work is posted
-with the permission of the copyright holder, your use and distribution
-must comply with both paragraphs 1.E.1 through 1.E.7 and any
-additional terms imposed by the copyright holder. Additional terms
-will be linked to the Project Gutenberg-tm License for all works
-posted with the permission of the copyright holder found at the
-beginning of this work.
-
-1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
-License terms from this work, or any files containing a part of this
-work or any other work associated with Project Gutenberg-tm.
-
-1.E.5. Do not copy, display, perform, distribute or redistribute this
-electronic work, or any part of this electronic work, without
-prominently displaying the sentence set forth in paragraph 1.E.1 with
-active links or immediate access to the full terms of the Project
-Gutenberg-tm License.
-
-1.E.6. You may convert to and distribute this work in any binary,
-compressed, marked up, nonproprietary or proprietary form, including
-any word processing or hypertext form. However, if you provide access
-to or distribute copies of a Project Gutenberg-tm work in a format
-other than "Plain Vanilla ASCII" or other format used in the official
-version posted on the official Project Gutenberg-tm web site
-(www.gutenberg.org), you must, at no additional cost, fee or expense
-to the user, provide a copy, a means of exporting a copy, or a means
-of obtaining a copy upon request, of the work in its original "Plain
-Vanilla ASCII" or other form. Any alternate format must include the
-full Project Gutenberg-tm License as specified in paragraph 1.E.1.
-
-1.E.7. Do not charge a fee for access to, viewing, displaying,
-performing, copying or distributing any Project Gutenberg-tm works
-unless you comply with paragraph 1.E.8 or 1.E.9.
-
-1.E.8. You may charge a reasonable fee for copies of or providing
-access to or distributing Project Gutenberg-tm electronic works
-provided that
-
-* You pay a royalty fee of 20% of the gross profits you derive from
-  the use of Project Gutenberg-tm works calculated using the method
-  you already use to calculate your applicable taxes. The fee is owed
-  to the owner of the Project Gutenberg-tm trademark, but he has
-  agreed to donate royalties under this paragraph to the Project
-  Gutenberg Literary Archive Foundation. Royalty payments must be paid
-  within 60 days following each date on which you prepare (or are
-  legally required to prepare) your periodic tax returns. Royalty
-  payments should be clearly marked as such and sent to the Project
-  Gutenberg Literary Archive Foundation at the address specified in
-  Section 4, "Information about donations to the Project Gutenberg
-  Literary Archive Foundation."
-
-* You provide a full refund of any money paid by a user who notifies
-  you in writing (or by e-mail) within 30 days of receipt that s/he
-  does not agree to the terms of the full Project Gutenberg-tm
-  License. You must require such a user to return or destroy all
-  copies of the works possessed in a physical medium and discontinue
-  all use of and all access to other copies of Project Gutenberg-tm
-  works.
-
-* You provide, in accordance with paragraph 1.F.3, a full refund of
-  any money paid for a work or a replacement copy, if a defect in the
-  electronic work is discovered and reported to you within 90 days of
-  receipt of the work.
-
-* You comply with all other terms of this agreement for free
-  distribution of Project Gutenberg-tm works.
-
-1.E.9. If you wish to charge a fee or distribute a Project
-Gutenberg-tm electronic work or group of works on different terms than
-are set forth in this agreement, you must obtain permission in writing
-from both the Project Gutenberg Literary Archive Foundation and The
-Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
-trademark. Contact the Foundation as set forth in Section 3 below.
-
-1.F.
-
-1.F.1. Project Gutenberg volunteers and employees expend considerable
-effort to identify, do copyright research on, transcribe and proofread
-works not protected by U.S. copyright law in creating the Project
-Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
-electronic works, and the medium on which they may be stored, may
-contain "Defects," such as, but not limited to, incomplete, inaccurate
-or corrupt data, transcription errors, a copyright or other
-intellectual property infringement, a defective or damaged disk or
-other medium, a computer virus, or computer codes that damage or
-cannot be read by your equipment.
-
-1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
-of Replacement or Refund" described in paragraph 1.F.3, the Project
-Gutenberg Literary Archive Foundation, the owner of the Project
-Gutenberg-tm trademark, and any other party distributing a Project
-Gutenberg-tm electronic work under this agreement, disclaim all
-liability to you for damages, costs and expenses, including legal
-fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
-PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
-DAMAGE.
-
-1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-defect in this electronic work within 90 days of receiving it, you can
-receive a refund of the money (if any) you paid for it by sending a
-written explanation to the person you received the work from. If you
-received the work on a physical medium, you must return the medium
-with your written explanation. The person or entity that provided you
-with the defective work may elect to provide a replacement copy in
-lieu of a refund. If you received the work electronically, the person
-or entity providing it to you may choose to give you a second
-opportunity to receive the work electronically in lieu of a refund. If
-the second copy is also defective, you may demand a refund in writing
-without further opportunities to fix the problem.
-
-1.F.4. Except for the limited right of replacement or refund set forth
-in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
-OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
-LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-1.F.5. Some states do not allow disclaimers of certain implied
-warranties or the exclusion or limitation of certain types of
-damages. If any disclaimer or limitation set forth in this agreement
-violates the law of the state applicable to this agreement, the
-agreement shall be interpreted to make the maximum disclaimer or
-limitation permitted by the applicable state law. The invalidity or
-unenforceability of any provision of this agreement shall not void the
-remaining provisions.
-
-1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
-trademark owner, any agent or employee of the Foundation, anyone
-providing copies of Project Gutenberg-tm electronic works in
-accordance with this agreement, and any volunteers associated with the
-production, promotion and distribution of Project Gutenberg-tm
-electronic works, harmless from all liability, costs and expenses,
-including legal fees, that arise directly or indirectly from any of
-the following which you do or cause to occur: (a) distribution of this
-or any Project Gutenberg-tm work, (b) alteration, modification, or
-additions or deletions to any Project Gutenberg-tm work, and (c) any
-Defect you cause.
-
-Section 2. Information about the Mission of Project Gutenberg-tm
-
-Project Gutenberg-tm is synonymous with the free distribution of
-electronic works in formats readable by the widest variety of
-computers including obsolete, old, middle-aged and new computers. It
-exists because of the efforts of hundreds of volunteers and donations
-from people in all walks of life.
-
-Volunteers and financial support to provide volunteers with the
-assistance they need are critical to reaching Project Gutenberg-tm's
-goals and ensuring that the Project Gutenberg-tm collection will
-remain freely available for generations to come. In 2001, the Project
-Gutenberg Literary Archive Foundation was created to provide a secure
-and permanent future for Project Gutenberg-tm and future
-generations. To learn more about the Project Gutenberg Literary
-Archive Foundation and how your efforts and donations can help, see
-Sections 3 and 4 and the Foundation information page at
-www.gutenberg.org
-
-
-
-Section 3. Information about the Project Gutenberg Literary Archive Foundation
-
-The Project Gutenberg Literary Archive Foundation is a non profit
-501(c)(3) educational corporation organized under the laws of the
-state of Mississippi and granted tax exempt status by the Internal
-Revenue Service. The Foundation's EIN or federal tax identification
-number is 64-6221541. Contributions to the Project Gutenberg Literary
-Archive Foundation are tax deductible to the full extent permitted by
-U.S. federal laws and your state's laws.
-
-The Foundation's principal office is in Fairbanks, Alaska, with the
-mailing address: PO Box 750175, Fairbanks, AK 99775, but its
-volunteers and employees are scattered throughout numerous
-locations. Its business office is located at 809 North 1500 West, Salt
-Lake City, UT 84116, (801) 596-1887. Email contact links and up to
-date contact information can be found at the Foundation's web site and
-official page at www.gutenberg.org/contact
-
-For additional contact information:
-
-    Dr. Gregory B. Newby
-    Chief Executive and Director
-    gbnewby@pglaf.org
-
-Section 4. Information about Donations to the Project Gutenberg
-Literary Archive Foundation
-
-Project Gutenberg-tm depends upon and cannot survive without wide
-spread public support and donations to carry out its mission of
-increasing the number of public domain and licensed works that can be
-freely distributed in machine readable form accessible by the widest
-array of equipment including outdated equipment. Many small donations
-($1 to $5,000) are particularly important to maintaining tax exempt
-status with the IRS.
-
-The Foundation is committed to complying with the laws regulating
-charities and charitable donations in all 50 states of the United
-States. Compliance requirements are not uniform and it takes a
-considerable effort, much paperwork and many fees to meet and keep up
-with these requirements. We do not solicit donations in locations
-where we have not received written confirmation of compliance. To SEND
-DONATIONS or determine the status of compliance for any particular
-state visit www.gutenberg.org/donate
-
-While we cannot and do not solicit contributions from states where we
-have not met the solicitation requirements, we know of no prohibition
-against accepting unsolicited donations from donors in such states who
-approach us with offers to donate.
-
-International donations are gratefully accepted, but we cannot make
-any statements concerning tax treatment of donations received from
-outside the United States. U.S. laws alone swamp our small staff.
-
-Please check the Project Gutenberg Web pages for current donation
-methods and addresses. Donations are accepted in a number of other
-ways including checks, online payments and credit card donations. To
-donate, please visit: www.gutenberg.org/donate
-
-Section 5. General Information About Project Gutenberg-tm electronic works.
-
-Professor Michael S. Hart was the originator of the Project
-Gutenberg-tm concept of a library of electronic works that could be
-freely shared with anyone. For forty years, he produced and
-distributed Project Gutenberg-tm eBooks with only a loose network of
-volunteer support.
-
-Project Gutenberg-tm eBooks are often created from several printed
-editions, all of which are confirmed as not protected by copyright in
-the U.S. unless a copyright notice is included. Thus, we do not
-necessarily keep eBooks in compliance with any particular paper
-edition.
-
-Most people start at our Web site which has the main PG search
-facility: www.gutenberg.org
-
-This Web site includes information about Project Gutenberg-tm,
-including how to make donations to the Project Gutenberg Literary
-Archive Foundation, how to help produce our new eBooks, and how to
-subscribe to our email newsletter to hear about new eBooks.
-
+*** END OF THE PROJECT GUTENBERG EBOOK 58231 ***
